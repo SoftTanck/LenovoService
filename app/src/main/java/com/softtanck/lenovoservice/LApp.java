@@ -14,4 +14,5 @@ public class LApp extends Application {
         super.onCreate();
         Log.d("Tanck", "oncreat");
     }
+
 }
