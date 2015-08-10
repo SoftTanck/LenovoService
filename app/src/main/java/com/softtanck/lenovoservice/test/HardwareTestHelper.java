@@ -5,7 +5,7 @@ package com.softtanck.lenovoservice.test;
  * @Description : TODO
  * @date 8/10/2015
  */
-public abstract class HardwareTestHelper {
+public interface HardwareTestHelper {
 
 
     public static enum TestResult {
